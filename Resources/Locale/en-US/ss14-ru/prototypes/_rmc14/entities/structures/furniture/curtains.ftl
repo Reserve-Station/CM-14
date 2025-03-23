@@ -1,0 +1,16 @@
+ent-RMCCurtainBase = curtain
+    .desc = { ent-BaseCurtains.desc }
+ent-RMCCurtainGreen = { ent-RMCCurtainBase }
+    .desc = { ent-RMCCurtainBase.desc }
+ent-RMCCurtainMedical = plastic curtain
+    .desc = { ent-RMCCurtainBase.desc }
+ent-RMCCurtainMedicalOpen = { ent-RMCCurtainMedical }
+    .suffix = Open
+    .desc = { ent-RMCCurtainMedical.desc }
+ent-RMCCurtainShower = shower curtain
+    .desc = { ent-RMCCurtainBase.desc }
+ent-RMCCurtainShowerOpen = { ent-RMCCurtainShower }
+    .suffix = Open
+    .desc = { ent-RMCCurtainShower.desc }
+ent-RMCCurtainRed = red curtain
+    .desc = { ent-RMCCurtainBase.desc }

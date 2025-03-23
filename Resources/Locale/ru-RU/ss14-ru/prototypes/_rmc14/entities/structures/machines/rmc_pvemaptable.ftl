@@ -1,0 +1,12 @@
+ent-RMCTacticalMapTablePVE1 = Map Table
+    .desc = A large flat map table used for planning operations. It's large enough it can even be used as a proper table.
+ent-RMCTacticalMapTablePVE2 = Map Table
+    .desc = A large flat map table used for planning operations. It's large enough it can even be used as a proper table.
+ent-RMCTacticalMapTablePVE3 = Map Table
+    .desc = A large flat map table used for planning operations. It's large enough it can even be used as a proper table.
+ent-RMCTacticalMapTablePVE4 = Map Table
+    .desc = A large flat map table used for planning operations. It's large enough it can even be used as a proper table.
+ent-RMCTacticalMapTablePVE5 = Map Table
+    .desc = A large flat map table used for planning operations. It's large enough it can even be used as a proper table.
+ent-RMCTacticalMapTablePVE6 = Map Table
+    .desc = A large flat map table used for planning operations. It's large enough it can even be used as a proper table.

@@ -1,0 +1,12 @@
+ent-ActionMarineToggleable = { ent-ActionMarineBase }
+    .desc = { ent-ActionMarineBase.desc }
+ent-RMCActionToggleAmmo = Переключение типа боеприпасов
+    .desc = Переключить тип боеприпасов, которыми стреляет это оружие.
+ent-RMCActionToggleRecoil = Переключить компенсацию отдачи
+    .desc = Устраняет всю отдачу при стрельбе из этого оружия.
+ent-RMCActionToggleAutoFire = Включить автоматический огонь
+    .desc = Заставляет пистолет автоматически делать один выстрел в сторону цели каждые пару секунд.
+ent-RMCActionToggleFarSight = Включить прицел
+    .desc = Позволяет видеть немного дальше.
+ent-RMCActionToggleMotionDetector = Включить детектор движения
+    .desc = Периодически обнаруживает любое неизвестное движение вблизи вас.

@@ -36,7 +36,6 @@ uplink-advanced-combat-medipen-name = Продвинутый боевой мед
 uplink-advanced-combat-medipen-desc = Усовершенствованный одноразовый медипен, содержащий химические вещества, которые быстро исцеляют большинство видов повреждений, полученных в бою.
 uplink-smugglers-satchel-name = Ранец контрабандиста
 uplink-smugglers-satchel-desc = Прочный ранец, который можно спрятать под плиткой пола. Просто снимите напольную плитку, прикрепите ранец к покрытию, а затем положите плитку обратно!
-
 # Weapons
 uplink-WSPR-name = WSPR набор
 uplink-WSPR-desc = ФФФфффщиииу.
@@ -103,7 +102,6 @@ uplink-lollypop-bundle-big-name = Donk Co.© Конфетный набор
 uplink-lollypop-bundle-big-desc = Содержит невероятное количество конфет. Что они могут содержать?
 uplink-mech-teleporter-assault-name = Штурмовой Мех
 uplink-mech-teleporter-assault-desc = Содержит легкобронированный робот Cybersun со встроенным цепным мечом, дробовиком LBX AC 10, Ракетомет SRM-8 и пушку Tesla P-X..
-
 # Implants
 uplink-fake-mindshield-name = Фейковый имплант защиты разума
 uplink-fake-mindshield-desc = Имплантат, который может имитировать сигналы настоящего имплантата защиты разума.
@@ -113,6 +111,7 @@ uplink-radio-implanter-name = Имплант радио
 uplink-radio-implanter-desc = Имплантирует радио Синдиката, позволяя пользоваться скрытой связью без гарнитуры.
 uplink-jaunter-implanter-name = Имплант Джаунтера
 uplink-jaunter-implanter-desc = Имплантирует Джаунтер, позволяя носителю меняться местами с случайной целью.
+
 # Wearables
 
 uplink-helmet-swat-name = Шлем спецназа Синдиката
@@ -123,13 +122,11 @@ uplink-syndicate-weapon-module-advanced-name = Продвинутый оруже
 uplink-syndicate-weapon-module-advanced-desc = Улучшает киборга энергетическим мечом и пистолетом Анаконда.
 uplink-clothing-explosive-gloves-desc = Перчатки, которые выглядят как обычные изолированные перчатки, но через секунду после удара током взрываются, выводя из строя кисти рук пользователя.
 uplink-helmet-swat-desc = Прочный шлем, обеспечивающий хорошую защиту и в некоторой степени подавляющий звуки взрывов.
-
 # Misc
 uplink-box-reagent-grenades-name = Ящик гранат-реагентов
 uplink-box-reagent-grenades-desc = Содержит 2 клейкие и 2 смазывающие гранаты.
 uplink-dimension-pot-name = Размерный горшок
 uplink-dimension-pot-desc = Портал в ваше собственное карманное измерение, замаскированный под комнатное растение, когда одного предмета в тайнике недостаточно.
-
 # Utility
 uplink-access-breaker-name = Взломщик доступов
 uplink-access-breaker-desc = Устройство для взлома доступа. Может открывать пожарные шлюзы и удалять требования к доступу из оборудования станции. Автоматически перезаряжается.

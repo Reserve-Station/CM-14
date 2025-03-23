@@ -1,0 +1,13 @@
+ent-RMCShutterBaseIndestructible = shutters
+    .desc = That looks like it doesn't open easily.
+ent-RMCShutterBase = { ent-RMCShutterBaseIndestructible }
+    .desc = { ent-RMCShutterBaseIndestructible.desc }
+ent-RMCShutterAlmayer = { ent-RMCShutterBase }
+    .desc = { ent-RMCShutterBase.desc }
+ent-RMCShutterAlmayerOpen = { ent-RMCShutterAlmayer }
+    .suffix = Open
+    .desc = { ent-RMCShutterAlmayer.desc }
+ent-RMCShutterHybrisa = { ent-RMCShutterAlmayer }
+    .desc = { ent-RMCShutterAlmayer.desc }
+ent-RMCShutterHybrisaWindow = { ent-RMCShutterAlmayer }
+    .desc = { ent-RMCShutterAlmayer.desc }
