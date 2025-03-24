@@ -1,33 +1,33 @@
 <p align="center"> <img alt="Space Station 14" width="400" height="400" src="https://github.com/user-attachments/assets/320ad459-8997-4e5b-9f7e-fc7e7d7dcb73" /></p>
 
-RMC-14 is inspired by CM13, Space Station 13, that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox).
+RMC-14 вдохновлен CM13, Space Station 13, который работает на [Robust Toolbox](https://github.com/space-wizards/RobustToolbox).
 
-The design goal of this fork is to attempt to replicate the feel and experience of CM13, while using SS14 as a foundation.
+Цель этого форка - попытаться повторить ощущения и опыт CM13, используя SS14 в качестве основы.
 
-This is the primary repo for RMC-14. To prevent people forking Robust Toolbox, a "content" pack is loaded by the client and server. This content pack contains everything needed to play the game on one specific server.
+Это основной репозиторий для RMC-14. Чтобы предотвратить форк Robust Toolbox, клиент и сервер загружают пакет «контента». Этот контент-пак содержит все необходимое для игры на одном конкретном сервере.
 
-If you want to host or create content for RMC-14, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
+Если вы хотите разместить или создать контент для RMC-14, это репозиторий, который вам нужен. Оно содержит как RobustToolbox, так и контент-пак для разработки новых контент-паков.
 
-## Links
+## Ссылки
 
 [RMC-14 Community Wiki](https://wiki.rouny-ss14.com/) | [Discord](https://discord.gg/rouny) | [SS14 Steam Launcher](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Launcher Download](https://spacestation14.io/about/nightlies/)
 
-## Contributing
+## Вклад
 
-We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of issues](https://github.com/RMC-14/RMC-14/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!
+Мы рады принять вклад от любого человека. Свяжитесь с нами в Discord, если хотите помочь. У нас есть [список проблем](https://github.com/RMC-14/RMC-14/issues), которые нужно решить, и любой может их подхватить. Не бойтесь просить о помощи!
 
-## Building
+## Билд
 
-1. Clone this repo.
-2. Run `RUN_THIS.py` to init submodules and download the engine.
-3. Compile the solution.
+1. Клонируйте это репозиторий. (git clone https://github.com/Reserve-Station/CM-14)
+2. Запустите `RUN_THIS.py` для инициализации подмодулей и загрузки движка. (git submodule update --init --recursive)
+3. Скомпилируйте репозиторий. (dotnet build --configuration Release)
 
-[More detailed instructions on building the project.](https://docs.spacestation14.com/en/general-development/setup.html)
+[Более подробные инструкции по сборке проекта.](https://docs.spacestation14.com/en/general-development/setup.html)
 
-## License
+## Лицензия
 
-All code for the content repository is licensed under [MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT).
+Весь код для хранилища контента лицензирован под [MIT](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT).
 
-Most assets are licensed under [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless stated otherwise. Assets have their license and the copyright in the metadata file. [Example](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
+Большинство активов лицензировано под [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/), если не указано иное. Лицензия и авторские права на активы указаны в файле метаданных. [Пример](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
-Note that some assets are licensed under the non-commercial [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) or similar non-commercial licenses and will need to be removed if you wish to use this project commercially.
+Обратите внимание, что некоторые активы лицензированы под некоммерческой [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) или аналогичной некоммерческой лицензией и должны быть удалены, если вы хотите использовать этот проект в коммерческих целях.
