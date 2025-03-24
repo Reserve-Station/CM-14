@@ -15,7 +15,7 @@ RELEASE_DIR = "release"
 # CONFIGURATION PARAMETERS
 # Forks should change these to publish to their own infrastructure.
 #
-ROBUST_CDN_URL = "https://wizards.cdn.spacestation14.com/"
+ROBUST_CDN_URL = "https://penis.reserve-station.space/"
 FORK_ID = "wizards"
 
 def main():
