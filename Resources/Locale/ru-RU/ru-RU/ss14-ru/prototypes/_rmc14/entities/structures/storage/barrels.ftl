@@ -1,0 +1,16 @@
+ent-RMCBarrelPileBase = куча бочек
+    .desc = большая куча бочек.
+ent-RMCBarrelPileYard = { ent-RMCBarrelPileBase }
+    .desc = { ent-RMCBarrelPileBase.desc }
+ent-RMCBarrelBase = бочка
+    .desc = бочка.
+ent-RMCBarrelBlue = синяя бочка
+    .desc = синяя бочка.
+ent-RMCBarrelGreen = зеленая бочка
+    .desc = зеленая бочка.
+ent-RMCBarrelRed = красная бочка
+    .desc = красная бочка.
+ent-RMCBarrelWhite = белая бочка
+    .desc = белая бочка.
+ent-RMCBarrelYellow = жёлтая бочка
+    .desc = жёлтая бочка.

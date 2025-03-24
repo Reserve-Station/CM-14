@@ -1,0 +1,13 @@
+ent-CMAlamoDoor = шлюз Аламо
+    .desc = { ent-CMBaseDoor.desc }
+ent-CMAlamoCockpit = кабина
+    .suffix = Аламо
+    .desc = { ent-CMBaseDoor.desc }
+ent-CMDoubleDoorAlamoSolidRight = { ent-CMDoubleDoorBase }
+    .suffix = Аламо, Правый
+    .desc = { ent-CMDoubleDoorBase.desc }
+ent-CMDoubleDoorAlamoSolidLeft = { ent-CMDoubleDoorBase }
+    .suffix = Аламо, Левый
+    .desc = { ent-CMDoubleDoorBase.desc }
+ent-RMCCargoAirlockAlamo = грузовая дверь Аламо
+    .desc = Он открывается и закрывается.
