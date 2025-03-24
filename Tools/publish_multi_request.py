@@ -16,7 +16,7 @@ RELEASE_DIR = "release"
 # Forks should change these to publish to their own infrastructure.
 #
 ROBUST_CDN_URL = "https://penis.reserve-station.space/"
-FORK_ID = "wizards"
+FORK_ID = "marines"
 
 def main():
     parser = argparse.ArgumentParser()
