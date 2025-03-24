@@ -1,0 +1,13 @@
+ent-CMBed = кровать
+    .desc = Матрас на прямоугольном металлическом каркасе. Используется для удобной поддержки лежащего человека, в частности, для регулярного сна. Древняя технология, но все еще полезная.
+ent-RMCBedAlt = { ent-CMBed }
+    .desc = { ent-CMBed.desc }
+ent-RMCBedPsych = { ent-CMBed }
+    .desc = { ent-CMBed.desc }
+ent-RMCBedDingy = { ent-CMBed }
+    .desc = { ent-CMBed.desc }
+ent-Bedroll = спальный мешок
+    .desc = Складной спальник - практически единственная вещь, которая может быть удобной в полевых условиях. Как правило, перед сном его нужно развернуть, но кому нужны правила?
+ent-BedrollFolded = { ent-Bedroll }
+    .suffix = Сложеный
+    .desc = { ent-Bedroll.desc }

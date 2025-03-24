@@ -1,0 +1,11 @@
+ent-WeaponRifleM16 = винтовка M16
+    .desc = Надежный и старый дизайн, впервые принятый на вооружение американской армией в 1960-х годах.  Такое оружие скорее для музея военной истории. Калибр — 5,56х45 мм.
+    .suffix = Заряжена
+ent-RMCMagazineRifleM16 = магазин для винтовки M16 (5,56x45 мм)
+    .desc = { ent-CMMagazineRifleBase.desc }
+ent-RMCCartridgeRifleM16 = патрон (5,56x45)
+    .desc = Патрон 5,56x45 мм для винтовки.
+ent-BulletRifle556x45mm = { ent-BulletRifle10x24mm }
+    .desc = { ent-BulletRifle10x24mm.desc }
+ent-BulletRifleM16 = пуля
+    .desc = { ent-BaseBullet.desc }

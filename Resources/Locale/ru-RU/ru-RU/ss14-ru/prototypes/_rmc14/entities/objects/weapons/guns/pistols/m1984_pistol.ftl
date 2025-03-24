@@ -1,0 +1,13 @@
+ent-CMWeaponPistolM1984 = служебный пистолет M4A3
+    .desc = Служебный пистолет M4A3, который когда-то был стандартным оружием морской пехоты, но недавно был заменен на боевой пистолет 88 М4. Стреляет пистолетными патронами калибра 9 мм.
+ent-CMWeaponPistolM1984Empty = { ent-CMWeaponPistolM1984 }
+    .suffix = Пустой
+    .desc = { ent-CMWeaponPistolM1984.desc }
+ent-CMMagazinePistolM1984 = магазин M4A3 (9 мм)
+    .desc = { ent-CMBaseMagazinePistol.desc }
+ent-CMBulletPistol9mm = пуля (9 мм)
+    .desc = { ent-CMBulletBase.desc }
+ent-CMCartridgePistol9mm = патрон (9 мм)
+    .desc = { ent-CMCartridgePistolBase.desc }
+ent-RMCMagazinePistolM1984AP = магазин M4A3 ББ (9 мм)
+    .desc = Пистолетный магазин. В него входят бронебойные пули, которые обладают заметно большей останавливающей силой по хорошо бронированным целям и заметно меньшей - по небронированным или легкобронированным.

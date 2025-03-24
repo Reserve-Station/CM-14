@@ -1,0 +1,14 @@
+ent-CMIDCardStaffOfficer = ID штаб офицера
+    .desc = { ent-CMIDCardSilver.desc }
+ent-CMIDCardCommandingOfficer = ID командующего офицера
+    .desc = { ent-CMIDCardGold.desc }
+ent-RMCIDCardCommandingOfficerPlus = ID командующего офицера
+    .desc = Высшее начальство высшего начальства. Выдается только самым преданным.
+ent-CMIDCardExecutiveOfficer = ID исполнительного офицера
+    .desc = { ent-CMIDCardSilver.desc }
+ent-CMIDCardHighCommand = ID высшего командования
+    .desc = Позолоченный голо-знак, предназначенный исключительно для тех, кто выше вас по званию.
+    .suffix = Админ
+ent-CMIDCardProvostSectorMarshal = ID маршала сектора-проектора
+    .desc = Позолоченный голо-знак, предназначенный исключительно для тех, кто выше вас по званию, с символом офиса маршала-провокатора.
+    .suffix = Администратор
